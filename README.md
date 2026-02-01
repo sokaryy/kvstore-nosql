@@ -117,17 +117,3 @@ benchmarks/
   bench_durability.py
 ```
 
-## GitHub and Telegram
-
-1. Create a new repository on GitHub (e.g. `kvstore-nosql`).
-2. Push this project:
-   ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/kvstore-nosql.git
-   git branch -M main
-   git push -u origin main
-   ```
-3. Send the repository link over your Telegram chat.
-
-## License
-
-MIT.
